@@ -5,6 +5,7 @@ var music;
 var box;
 var edges;
 //hi
+//bye
 
 function preload(){
     music = loadSound("music.mp3");
